@@ -1,0 +1,4 @@
+#phones {
+    display: flex;
+    flex-wrap: wrap;
+}
